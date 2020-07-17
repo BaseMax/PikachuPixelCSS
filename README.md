@@ -8,7 +8,11 @@ Trying to create pixel art Pikachu in pure CSS. (Not SCSS, Without JS)
 
 Demo: https://basemax.github.io/PikachuPixelCSS/poster.html
 
-## Other Similar Projects
+------
+
+### Other Similar Art Projects
+
+I'm not a artist, it was just a try to follow some related image.
 
 - https://codepen.io/alkshendra/pen/NxRXZB
 - https://codepen.io/una/pen/oXXRgg/
@@ -19,8 +23,6 @@ Demo: https://basemax.github.io/PikachuPixelCSS/poster.html
 - https://codepen.io/msanz/pen/jbMXwq/
 
 ---------
-
-I'm not a artist, it was just a try to follow some related image.
 
 # Max Base
 
