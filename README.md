@@ -6,6 +6,7 @@ Trying to create pixel art Pikachu in pure CSS.
 
 ![Pikachu Pixel CSS](demo.jpg)
 
+Demo: https://basemax.github.io/PikachuPixelCSS/poster.html
 
 ---------
 
