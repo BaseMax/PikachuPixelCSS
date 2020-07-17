@@ -8,6 +8,8 @@ Trying to create pixel art Pikachu in pure CSS. (Not SCSS, Without JS)
 
 Demo: https://basemax.github.io/PikachuPixelCSS/poster.html
 
+I did not access to **Photoshop** or graphical software, but if you has access it can help you do it sooner.
+
 ------
 
 ### Other Similar Art Projects
