@@ -2,9 +2,9 @@
 
 Trying to create pixel art Pikachu in pure CSS. (Not SCSS, Without JS)
 
-![Pikachu Pixel CSS](header.jpg)
+[![Pikachu Pixel CSS](header.jpg)](https://basemax.github.io/PikachuPixelCSS/figure.html)
 
-![Pikachu Pixel CSS](demo.jpg)
+[![Pikachu Pixel CSS](demo.jpg)](https://basemax.github.io/PikachuPixelCSS/figure.html)
 
 Demo: https://basemax.github.io/PikachuPixelCSS/figure.html
 
