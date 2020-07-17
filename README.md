@@ -1,12 +1,22 @@
 # Pikachu Pixel CSS
 
-Trying to create pixel art Pikachu in pure CSS.
+Trying to create pixel art Pikachu in pure CSS. (Not SCSS, Without JS)
 
 ![Pikachu Pixel CSS](header.jpg)
 
 ![Pikachu Pixel CSS](demo.jpg)
 
 Demo: https://basemax.github.io/PikachuPixelCSS/poster.html
+
+## Other Similar Projects
+
+- https://codepen.io/alkshendra/pen/NxRXZB
+- https://codepen.io/una/pen/oXXRgg/
+- https://codepen.io/andrewarchi/pen/OXEEgL
+- https://codepen.io/MyXoToD/pen/fvnek/
+- https://codepen.io/cx20/pen/qEibr/
+- https://codepen.io/servinnissen/pen/yYbmrm
+- https://codepen.io/msanz/pen/jbMXwq/
 
 ---------
 
